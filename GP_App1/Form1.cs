@@ -18,7 +18,8 @@ namespace GP_App1
         {
             InitializeComponent();
         }
-
+        
+        //Fotoğraf Ölçeklendirme Buton İşlevleri
         private void btnImgScl_Click(object sender, EventArgs e)
         {
             if (pictureBox1.Image == null)
