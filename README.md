@@ -7,5 +7,5 @@
 
 ### _Ortam Bilgileri_
 - Programlama Dili   : C#
-- Programlama Ortamı : Visual Studio 2019
+- Programlama Ortamı : Visual Studio 2019 Version 16.5.1
 - Algoritma          : Canny Edge Algorithm
