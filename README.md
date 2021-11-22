@@ -5,7 +5,7 @@
 - İyi çalışmalar. :)
 
 
-
+### _Ortam Bilgileri_
 - Programlama Dili   : C#
 - Programlama Ortamı : Visual Studio 2019
 - Algoritma          : Canny Edge Algorithm
