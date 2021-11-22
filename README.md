@@ -1,4 +1,4 @@
-# Görüntü İşleme 1
+# Görüntü İşleme
 
 - Görüntü işleme algoritmalarından "Canny Edge Algorithm" olarak bilinen algoritmanın kodlama dosyasıdır.
 - Algoritmanın görsel üzerinde yaptığı işlemleri aşamalı olarak Windows Form Application penceresinde görebileceksiniz.
